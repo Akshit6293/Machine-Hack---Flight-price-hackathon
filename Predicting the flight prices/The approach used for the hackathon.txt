@@ -1,0 +1,6 @@
+I have created a python file for the hackathon. 
+I had to predict flight prices for the next day according to the data set. 
+I have used random forest regressor for for predicting the flight prices. 
+I have even used matplotlib library and seaborn library for plotting various charts.
+
+Kindly take a look at the code and give a feedback on the same.
